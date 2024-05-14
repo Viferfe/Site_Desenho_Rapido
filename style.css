@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+#pontuação{
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+#tempo{
+    font-size: 30px;
+    float: right;
+    margin-right: 100px;
+}
+
+#esboço{
+    color: darkgoldenrod;
+}
+
